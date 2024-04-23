@@ -1,0 +1,5 @@
+# Paste your Token and GuildID here and rename this file to .env
+
+TOKEN = YOUR_APP_TOKEN
+GUILDID = YOUR_GUILD_ID
+
